@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="assets/banner.jpg" alt="PHP2Shell Checker Banner" width="100%">
+  
 # PHP2Shell Checker
 
 ### Passive PHP Fingerprinting & Version-Based Vulnerability Assessment
