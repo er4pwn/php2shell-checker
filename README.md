@@ -531,46 +531,6 @@ The project is provided without a guarantee that every affected system will be i
 
 ---
 
-## Roadmap
-
-Potential future improvements include:
-
-- Configurable version-threshold data with advisory references
-- More precise reporting of incomplete checks
-- Configurable trusted CA bundle support
-- Additional PHP framework fingerprints
-- Unit and integration tests using controlled local fixtures
-- Improved evidence deduplication and confidence scoring
-- Optional machine-readable output for vulnerability management workflows
-- Better differentiation between observed evidence and inferred technology
-
-These are potential enhancements and are not all implemented in the current release.
-
----
-
-## Contributing
-
-Contributions, bug reports, and suggestions are welcome.
-
-When reporting an issue, include:
-
-- Python version and operating system
-- Scanner version and command used
-- Expected and actual behavior
-- Sanitized response headers or sample output, where appropriate
-
-Do not include credentials, tokens, private customer information, or confidential assessment reports in public issues.
-
-Please review `CONTRIBUTING.md` before submitting changes.
-
----
-
-## License
-
-This project is distributed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## Author
 
 **er4pwn**  
