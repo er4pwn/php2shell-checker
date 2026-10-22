@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="PHP2Shell Checker Banner" width="50%">
+<img src="assets/banner.jpg" alt="PHP2Shell Checker Banner" width="150%">
   
 # PHP2Shell Checker
 
